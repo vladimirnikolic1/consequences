@@ -3,6 +3,7 @@
 
 ![Image](documentation/image1.jpg)
 
+
 ## Variable Font Axe
 
 New Amsterdam has the following axe:
@@ -13,12 +14,9 @@ Weight | wght | 400 | Regular
 
 ![Image](documentation/image2.jpg)
 
-
 ![Image](documentation/image2.png)
 
-
 ![Image](documentation/image1.png)
-
 
 ## License
 
