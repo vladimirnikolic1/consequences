@@ -1,16 +1,16 @@
 
 # Consequences font
 
-![Image](image1.jpg)
+![Image](documentation/image1.jpg)
 
 
-![Image](image2.jpg)
+![Image](documentation/image2.jpg)
 
 
-![Image](image2.png)
+![Image](documentation/image2.png)
 
 
-![Image](image1.png)
+![Image](documentation/image1.png)
 
 
 ## License
