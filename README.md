@@ -3,6 +3,13 @@
 
 ![Image](documentation/image1.jpg)
 
+## Variable Font Axe
+
+New Amsterdam has the following axe:
+
+Axis | Tag | Default | Static Instances
+--- | --- | --- | ---
+Weight | wght | 400 | Regular
 
 ![Image](documentation/image2.jpg)
 
