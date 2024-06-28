@@ -6,7 +6,7 @@
 
 ## Variable Font Axe
 
-New Amsterdam has the following axe:
+Consequences has the following axe:
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
